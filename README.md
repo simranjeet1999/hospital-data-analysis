@@ -23,8 +23,8 @@ Analyzed 25,000+ patient records to identify key drivers of hospital
    Circulatory and Respiratory conditions
 
 ## Dashboard Preview
-![Python Dashboard](readmission_dashboard.png)
-![Tableau Dashboard](tableau_dashboard.png)
+
+![Tableau Dashboard](Dashboard_health.png)
 
 ## Files
 - `hospital_data_analysis_sql.ipynb` — Full SQL and Python analysis
